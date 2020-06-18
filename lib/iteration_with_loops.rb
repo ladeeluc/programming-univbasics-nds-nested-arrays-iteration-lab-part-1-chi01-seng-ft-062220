@@ -14,3 +14,10 @@ end
 end 
 end
   
+# def find_even_values(src)
+#   new_array = []
+#   src.select {
+#    new_array << src.even?
+#   }
+#   p new_array
+# end
